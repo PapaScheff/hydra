@@ -1,0 +1,167 @@
+{
+    "home": {
+      "featured": "推奨事項",
+      "recently_added": "最近追加された",
+      "trending": "現在",
+      "surprise_me": "私を驚かせてください",
+      "no_results": "結果が見つかりません"
+    },
+    "sidebar": {
+      "catalogue": "カタログ",
+      "downloads": "ダウンロード",
+      "settings": "設定",
+      "my_library": "私のライブラリ",
+      "downloading_metadata": "{{title}} (メタデータのロード…)",
+      "checking_files": "{{title}} ({{percentage}} - ファイルをチェックしています…)",
+      "paused": "{{title}} (一時停止中)",
+      "downloading": "{{title}} ({{percentage}} - ローディング中…)",
+      "filter": "ライブラリフィルター",
+      "follow_us": "私たちに従ってください",
+      "home": "ホーム",
+      "discord": "Discordに参加する",
+      "x": "Xを購読する",
+      "github": "GitHub に貢献する"
+    },
+    "header": {
+      "search": "サーチ",
+      "home": "ホーム",
+      "catalogue": "カタログ",
+      "downloads": "ダウンロード",
+      "search_results": "検索結果",
+      "settings": "設定"
+    },
+    "bottom_panel": {
+      "no_downloads_in_progress": "アクティブなダウンロードはありません",
+      "downloading_metadata": "メタデータのロード {{title}}…",
+      "checking_files": "ファイルをチェックしています {{title}}… ({{percentage}} 完成した)",
+      "downloading": "ローディング中 {{title}}… ({{percentage}} 完成した) - 結末 {{eta}} - {{speed}}"
+    },
+    "catalogue": {
+      "next_page": "次のページ",
+      "previous_page": "前のページ"
+    },
+    "game_details": {
+      "open_download_options": "ダウンロードオプションを開く",
+      "download_options_zero": "ダウンロードオプションはありません",
+      "download_options_one": "{{count}} ダウンロードオプション",
+      "download_options_other": "{{count}} ダウンロードオプション",
+      "updated_at": "更新しました {{updated_at}}",
+      "install": "インストール",
+      "resume": "再開する",
+      "pause": "一時停止",
+      "cancel": "キャンセル",
+      "remove": "削除します",
+      "remove_from_list": "削除します",
+      "space_left_on_disk": "ディスクに {{space}} が残っています",
+      "eta": "エンディング {{eta}}",
+      "downloading_metadata": "メタデータのロード…",
+      "checking_files": "ファイルをチェックしています...",
+      "filter": "フィルターを詰め替える",
+      "requirements": "システム要求",
+      "minimum": "最小",
+      "recommended": "特徴",
+      "no_minimum_requirements": "{{title}} には最小要件がありません",
+      "no_recommended_requirements": "{{title}} には推奨要件がありません",
+      "paused_progress": "{{progress}} (一時停止)",
+      "release_date": "リリース日{{date}}",
+      "publisher": "公開 {{publisher}}",
+      "copy_link_to_clipboard": "リンクをコピー",
+      "copied_link_to_clipboard": "リンクをコピーしました",
+      "hours": "時間",
+      "minutes": "分",
+      "amount_hours": "{{amount}} 時間",
+      "amount_minutes": "{{amount}} 分",
+      "accuracy": "{{accuracy}}% 正確さ",
+      "add_to_library": "ライブラリに追加",
+      "remove_from_library": "ライブラリから削除",
+      "no_downloads": "ダウンロードはありません",
+      "play_time": "プレイ時間 {{amount}}",
+      "last_time_played": "最後にプレイ {{period}}",
+      "not_played_yet": "{{title}} はまだプレイされていません",
+      "next_suggestion": "次の提案",
+      "play": "プレイ",
+      "deleting": "ダウンロードを削除中…",
+      "close": "閉じる",
+      "playing_now": "現在プレイ中",
+      "change": "変更",
+      "repacks_modal_description": "リパックを選択してください",
+      "downloads_path": "ダウンロードパス",
+      "select_folder_hint": "ダウンロードパスを変更するには",
+      "settings": "ヒドラ設定",
+      "download_now": "今すぐダウンロード",
+      "installation_instructions": "インストール説明",
+      "installation_instructions_description": "ダウンロード後にインストールする必要があります",
+      "online_fix_instruction": "オンライン修正ゲームはパスワードを必要とします。必要な場合は、次のパスワードを使用してください:",
+      "dodi_installation_instruction": "DODI インストーラーを開くと、キーボードの '↑' キーを押してインストールを開始します:",
+      "dont_show_it_again": "今後表示しない",
+      "copy_to_clipboard": "クリップボードでコピー",
+      "copied_to_clipboard": "クリップボードでコピーしました",
+      "got_it": "わかりました"
+    },
+    "activation": {
+      "title": "ヒドラを活性化する",
+      "installation_id": "インストールID:",
+      "enter_activation_code": "アクティバーコードを入力してください",
+      "message": "アクティバーコードが見つからない場合は、このメッセージが表示されます。",
+      "activate": "活性化",
+      "loading": "ロード中…"
+    },
+    "downloads": {
+      "resume": "再開",
+      "pause": "一時停止",
+      "eta": "終了 {{eta}}",
+      "paused": "一時停止",
+      "verifying": "確認中…",
+      "completed_at": "完了 {{date}}",
+      "completed": "完了",
+      "cancelled": "キャンセル",
+      "download_again": "ダウンロードする",
+      "cancel": "キャンセル",
+      "filter": "ダウンロードされたゲーム",
+      "remove": "削除",
+      "downloading_metadata": "メタデータのロード…",
+      "checking_files": "ファイルをチェックしています...",
+      "starting_download": "ダウンロードを開始…",
+      "deleting": "インストーラーを削除中…",
+      "delete": "削除",
+      "remove_from_list": "削除",
+      "delete_modal_title": "本当に削除しますか?",
+      "delete_modal_description": "このゲームのインストーラーは削除されます。",
+      "install": "インストール"
+    },
+    "settings": {
+      "downloads_path": "ダウンロードパス",
+      "change": "変更",
+      "notifications": "通知",
+      "enable_download_notifications": "ダウンロード完了時に通知を受け取る",
+      "enable_repack_list_notifications": "リパックリスト更新時に通知を受け取る",
+      "telemetry": "テレメトリー",
+      "telemetry_description": "利用者情報を送信しません",
+      "behavior": "振る舞い",
+      "quit_app_instead_hiding": "アプリを閉じる代わりにトレイに表示",
+      "launch_with_system": "システム起動時に起動"
+    },
+    "notifications": {
+      "download_complete": "ダウンロード完了",
+      "game_ready_to_install": "{{title}} がインストールできるようになりました",
+      "repack_list_updated": "リパックリストを更新しました",
+      "repack_count_one": "{{count}} リパックを追加しました",
+      "repack_count_other": "{{count}} リパックを追加しました"
+    },
+    "system_tray": {
+      "open": "ヒドラを起動",
+      "quit": "終了"
+    },
+    "game_card": {
+      "no_downloads": "ダウンロードされたゲームはありません"
+    },
+    "binary_not_found_modal": {
+      "title": "ゲームのインストールに失敗しました",
+      "description": "ゲームのインストールに失敗しました。以下のモデルを確認してください:",
+      "instructions": "Linuxのパッケージマネージャーを確認してください"
+    },
+    "modal": {
+      "close": "閉じる"
+    }
+  }
+  
